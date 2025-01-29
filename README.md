@@ -1,5 +1,5 @@
 # AISecurityCamera
-
+# Author- HEET GALA
 This is a simple Security Camera example which detects motion and perform face recognition using OpenCV and dlib on Raspberry PI. 
 
 Blog Post: [Medium](https://towardsdatascience.com/make-your-own-smart-home-security-camera-a89d47284fc7)
